@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is James Song, and I am currently a 4th year CS student at Western University that is set to graduate May 2026. I am primarily a game developer using Unity and C#, but I also have experience and enjoy creating projects involving Python, C++, and Java!
+My name is James Song, and I am currently a 4th year CS student at Western University that is set to graduate May 2026. I am primarily a game developer using Unity and C#, but I also have experience and created projects involving Python (AI), C++ (OpenGL), Java, and more!
 Here are some things I am currently working on:
   - I am a contributor to the [NLIP](https://nlip-project.org/#/) open-source project, which provides a standard protocol for communication between different AI agents
   - A 2D pixel Roguelike dungeon crawler on Unity
 
-Feel free to reach out to me through my [email]() and learn more about me through my [website]()!
+Feel free to reach out to me through my [email](mailto:james21s1337@gmail.com) and learn more about me through my [website]()!
