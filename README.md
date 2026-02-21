@@ -27,5 +27,6 @@ And here are some things I have worked on in the past:
   - Wave defense ([Scuba Warrior](https://phantom-xyz.itch.io/scuba-warrior)) with Terraria-like combat and boss battles using Unity
   - Collaborated on a pet care game using Java and JavaFX
   - Collaborated on a Metroidvania-like game where you must defeat computer viruses using SFML (C++)
+  - Created a Roblox RPG system including inventory, different weapon classes, a safe saving system, and various interactions between the client and the server (RemoteEvents and RemoteFunctions)
 
 Feel free to reach out to me through my [email](mailto:james21s1337@gmail.com)!
