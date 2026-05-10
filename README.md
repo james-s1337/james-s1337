@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 My name is James Song, and I am currently a 4th year CS student at Western University that is set to graduate May 2026. I am primarily a game developer using Unity and C#, but I also have experience and created projects involving Python (AI), C++ (OpenGL), Java, and more!
 
 Here are some things I am currently working on:
-  - A contributor to the [NLIP](https://nlip-project.org/#/) open-source project (provides a standard protocol for communication between different AI agents), created web scraper modules using Python for a product search function using NLIP
-  - A 2D pixel Roguelike dungeon crawler on Unity with dungeon generation similar to Dead Cells on Unity
+  - A 2D pixel Roguelike dungeon crawler on Unity with random dungeon generation on Unity
+  - Learning the fundamentals of React, JS, and other web development tech
 
 And here are some things I have worked on in the past:
+  - A multiple choice geography quiz made with the React library ()
+  - A contributor to the [NLIP](https://nlip-project.org/#/) open-source project (provides a standard protocol for communication between different AI agents), created web scraper modules using Python for a product search function using NLIP
   - Simple parkour platformer ([Ninja Trials](https://phantom-xyz.itch.io/ninja-trials)) with rope swing mechanic and a camera system similar to the one in Hollow Knight (different camera zones and types) using Unity
   - Wave defense shooter ([Alien Blast Off](https://phantom-xyz.itch.io/alien-blast-off)) similar to Muffin Knight (collect a certain amount of power cells to pass a level, get a randomized weapon every time you collect a power cell) using Unity
   - Wave defense ([Scuba Warrior](https://phantom-xyz.itch.io/scuba-warrior)) with Terraria-like combat and boss battles using Unity
