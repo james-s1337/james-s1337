@@ -22,7 +22,7 @@ Here are some things I am currently working on:
   - Learning the fundamentals of React, JS, and other web development tech
 
 And here are some things I have worked on in the past:
-  - A multiple choice geography quiz made with the React library ()
+  - A multiple choice geography quiz made with the React library (https://james-s1337.github.io/React-Quiz-Site/)
   - A contributor to the [NLIP](https://nlip-project.org/#/) open-source project (provides a standard protocol for communication between different AI agents), created web scraper modules using Python for a product search function using NLIP
   - Simple parkour platformer ([Ninja Trials](https://phantom-xyz.itch.io/ninja-trials)) with rope swing mechanic and a camera system similar to the one in Hollow Knight (different camera zones and types) using Unity
   - Wave defense shooter ([Alien Blast Off](https://phantom-xyz.itch.io/alien-blast-off)) similar to Muffin Knight (collect a certain amount of power cells to pass a level, get a randomized weapon every time you collect a power cell) using Unity
