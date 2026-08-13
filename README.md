@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is James Song, and I am currently a 4th year CS student at Western University that is set to graduate May 2026. I am primarily a game developer using Unity and C#, but I also have experience and created projects involving Python (AI), C++ (OpenGL), Java, and more!
+My name is James Song, and I am currently a 4th year CS student at Western University that is set to graduate May 2026. I am primarily a game developer using Unity and C#, but I also have experience and created projects involving Python (AI), JavaScript/React, Unity, and more!
 
 Here are some things I am currently working on:
-  - A 2D pixel Roguelike dungeon crawler on Unity with random dungeon generation on Unity
   - Learning the fundamentals of React, JS, and other web development tech
+  - Integrating AI and relational databases to React apps
 
 And here are some things I have worked on in the past:
   - A multiple choice geography quiz made with the React library (https://james-s1337.github.io/React-Quiz-Site/)
