@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 My name is James Song, and I am currently a 4th year CS student at Western University that is set to graduate May 2026. I am primarily a game developer using Unity and C#, but I also have experience and created projects involving Python (AI), JavaScript/React, Unity, and more!
 
 Here are some things I am currently working on:
+  - Working on an AI interview tool called SpeakIndex as an intern at AIFL
   - Learning the fundamentals of React, JS, and other web development tech
   - Integrating AI and relational databases to React apps
 
